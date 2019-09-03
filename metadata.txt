@@ -1,0 +1,18 @@
+GIS data stored and managed by the Grand Bahama Port Authority (GBPA) regarding the City of Freeport and Grand Bahama Island. It includes points (lat/lon), shapes/envelopes, lines, and all other geographic/geometric data about Grand Bahama.
+
+It is actively being curated and added to on a scheduled basis.
+
+Since 2005 the department has been creating new data in the form of GIS Layers, as well as updating and maintaining existing ones. The Goal of the department is to create a seamless, rich, accurate data set of the Port Area to facilitate development and assist the licensees of the Port Area in their business.
+
+In addition to GIS Services the department also maintains a digital archive of Survey Plans and Architectural documents. Copies of these documents may be obtained from our office at the Grand Bahama Medical Complex, or online using our form.
+
+Our data is made freely available to vendors, developers, designers, planners, or analysts to use in applications, without restrictions.
+
+Official GIS site for Grand Bahama: https://gis.gbpa.com/
+
+REST API to test against (no authentication required): https://api.gbpa.com/gis
+
+Licensing
+The data supplied in the repo is provided by the Grand Bahama Port Authority (GBPA) for third parties to use or modify under a Creative Commons Attribution 4.0 International (CC BY 4.0) license. Please include "Data Provided by The Grand Bahama Port Authority" in both the source code and UI of your application where possible.
+
+Important OSM Note: The data may also be imported into OpenStreetMap under the ODbL 1.0 with no further need for formal permission (see: https://blog.openstreetmap.org/2017/03/17/use-of-cc-by-data/)
